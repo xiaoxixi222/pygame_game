@@ -9,9 +9,7 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "pygame>=2.6.1",
-    "pygame-pgu>=0.21",
-    "pyopengl>=3.1.10",
-    "pyopengl-accelerate>=3.1.10",
+    "pygame-gui>=0.6.14",
 ]
 
 [build-system]
