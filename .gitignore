@@ -50,6 +50,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+test.html
+style.css
 
 # Translations
 *.mo
@@ -138,12 +140,18 @@ dmypy.json
 cython_debug/
 
 # log
-log
+log/
 *.log
 
 # uv
-list
+list/
 
 # tmp
 *_tmp.*
-tmp
+tmp/
+
+# vscode
+.vscode/
+
+# JetBrains
+.idea/
